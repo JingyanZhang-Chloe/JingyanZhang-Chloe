@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jingyan Zhang
-- 👀 I’m interested in Mathematics, Computer science, Algorithm and Quant Finance.
-- 🌱 I’m currently learning Maths, Computer sinence and Economics in École Polytechnique
+- 👀 I’m interested in Mathematics, Computer science, Algorithms and Quant Finance.
+- 🌱 I’m currently learning Maths, Computer science and Economics in École Polytechnique
 - 📫 How to reach me : jingyan.zhang@polytechnique.edu
 - 😄 Pronouns: she/her
 

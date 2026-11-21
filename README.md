@@ -1,12 +1,7 @@
-- 👋 Hi, I’m Jingyan Zhang
-- 👀 I’m interested in Mathematics, Computer science, Algorithms and Quant Finance.
-- 🌱 I’m currently learning Maths, Computer science and Economics in École Polytechnique
-- 📫 How to reach me : jingyan.zhang@polytechnique.edu
+- 👋 Hi, I'm Jingyan (Chloe) Zhang
+- 🎓 M1 student in the Mathématiques Jacques Hadamard (MJH) master at IP Paris, FMJH Sophie Germain scholar; BSc Mathematics & Economics, École polytechnique
+- 👀 Interested in optimization, probability and stochastic control
+- 🔬 Research: parameter estimation in partially observed dynamical systems (integral elimination, homotopy continuation, weak-form methods) with Gleb Pogudin at LIX
+- 💻 Python, Julia, C/C++
+- 📫 jingyan.zhang@polytechnique.edu
 - 😄 Pronouns: she/her
-
-<!---
-My name is Jingyan (Chloe) Zhang, and I am currently a student at École Polytechnique, pursuing a double major in Mathematics and Economics with a minor in Computer Science.
-My academic focus is heavily on advanced mathematics, including linear algebra, analysis, calculus, probability, and statistics.
-I have a solid foundation in programming with Python, C, and C++, as well as SQL, R, and Stata.
-I am particularly interested in applying rigorous mathematical methods to financial modeling, quant finance, and risk management
---->
